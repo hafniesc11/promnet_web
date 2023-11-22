@@ -19,16 +19,16 @@ const Intro = () => {
           <div className="about__cards">
             <article className="about__card">
               <FaAward className="about__icon" />
-              <h5>Experience</h5>
-              <small>1+ year</small>
+              <h5>Nama Panggilan</h5>
+              <small>Apni</small>
             </article>
-            {/* <article className="about__card">
+            <article className="about__card">
               <VscFolderLibrary className="about__icon" />
-              <h5>Projects</h5>
-              <small>20+ Completed Projects</small>
-            </article> */}
+              <h5>Qoutes</h5>
+              <small>"Just because it's hard doesn't mean it's imposibble, you can do it."</small>
+            </article>
           </div>
-          <p>Hallo semuanya, aku Hafnie Saufa Chandrika dengan NIM 2210036 dari kelas Pendidikan Ilmu Komputer - B, aku suka dengan dokumentasi dan main keluar karena menurutku main bisa membuat pikiran kita better.</p>
+          <p>Hallo semuanya, aku Hafnie Saufa Chandrika NIM 2210036 dari kelas Pendidikan Ilmu Komputer - B, aku suka dengan dokumentasi dan main, karena menurutku main bisa membuat pikiran kita better. Tapi aku suka mengisi waktu luangku dengan tidur atau scroll tiktok hehe.</p>
           <p>Ini adalah fotoku saat Ulang Tahunku yang ke 20. Wish ya si semoga lebih bahagia aamiin</p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>

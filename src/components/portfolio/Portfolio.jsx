@@ -4,7 +4,7 @@ import IMG2 from '../../assets/todo.png';
 import IMG3 from '../../assets/shelter.png';
 import IMG4 from '../../assets/fake.png';
 import IMG5 from '../../assets/news.png';
-import IMG6 from '../../assets/math.png';
+import IMG6 from '../../assets/path.jpeg';
 
 import './portfolio.css';
 
@@ -44,7 +44,7 @@ const Portfolio = () => {
       title: 'Aku',
       img: IMG3,
       description:
-        'Ini aku, pertama kali ikut organisasi dan langsung menjadi sekretaris. Menurutku ini merupakan awal aku karena aku suka dengan dengan hal-hal yang mengetik ataupun menulis, aku dulu pernah membuat cerita di Watpad dan tidak aku publish hehe..',
+        'Ini aku, pertama kali ikut organisasi dan langsung menjadi sekretaris saat di Kampus. Menurutku ini merupakan awal aku karena aku suka dengan dengan hal-hal yang mengetik ataupun menulis, aku dulu pernah membuat cerita di Watpad dan tidak aku publish hehe..',
       technologies: 'Bandung, 05 Maret 2023 | 13.40',
       link: 'https://meri-mg.github.io/shelter/pages/main/index.html',
       github: 'https://github.com/Meri-MG/shelter',
@@ -54,18 +54,18 @@ const Portfolio = () => {
       title: 'Bestie Kost',
       img: IMG5,
       description:
-        'ini eka dan tata, mereka aku temukan di saat MOKAKU-UPI. Kita selalu bermain, ngobrol dan tidur di kost siapa? iya kost aku dan eka, sebenernya rencana kita banyak cuman masih wacana saja.. Dan ini moment saat aku ulang tahun dimana mereka memberikan suprice ke kost. Luv u<3',
+        'ini eka dan tata, kita bertemu saat di MOKAKU-UPI. Kita selalu bermain, ngobrol dan tidur di kost siapa? iya kost aku dan eka, sebenernya rencana kita banyak cuman masih wacana saja.. Dan ini moment saat aku ulang tahun dimana mereka memberikan surprice ke kost. Luv u<3',
       technologies: 'Bandung, 09 November 2023 | 19.00',
       link: 'https://meri-mg.github.io/Unilab-world-news/',
       github: 'https://github.com/Meri-MG/Unilab-world-news',
     },
     {
       id: 6,
-      title: 'Eka Nurul',
+      title: 'Alif dan Nahla',
       img: IMG6,
       description:
-        'Ini eka, teman sekamarku yang selalu mendengarkan keluh kesahku, terimakasih telah menjadi teman sekamarku<3. Ini foto kita saat parampa FPMIPA UPI 23',
-      technologies: 'Bandung, 04 Februari 2023 | 16.30',
+        'Ini ponakan aku, aku dekat dengan mereka saat 2020 karena pada masa itu aku tinggal bersama bude pakde aku, mereka lucu cuman kadang menyebalkan.. Mereka jail kalau ketemu aku pasti nyubit kalau ga coel-coel tapi ak sayang ndapapa mwhehe',
+      technologies: 'Bekasi, 19 Mei 2023 | 16.30',
       link: 'https://lukinoo.github.io/math-resource/',
       github: 'https://github.com/lukinoo/math-resource',
     },
